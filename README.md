@@ -1,2 +1,10 @@
-# cecmagnum
-A simple Todo App using sails js.
+# TodoApp
+
+a Todo app created using [Sails](http://sailsjs.org)!
+
+clone the source, then do :
+
+`npm install`
+
+`sails lift`
+
